@@ -56,3 +56,4 @@
 * git remote add <name> <adress> - Добавляет ссылку на удаленный репозиторий;
 * git remote -v - Проверка добавленных ссылок;
 * git remote set-url origin - Смена адресса отправления;
+* git fetch origin - Загружает ветки из удаленного репозитория.
